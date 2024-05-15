@@ -1,5 +1,5 @@
 import { css } from '@stitches/core'
-import { generateClassNames } from '@supabase/auth-ui-shared'
+import { generateClassNames } from '../../../../shared'
 import { Appearance } from '../../types'
 
 const labelDefaultStyles = css({
