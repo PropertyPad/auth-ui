@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "postinstall": "cd packages/react && npm install && cd ../shared && npm install",
     "build": "turbo run build",
     "build:react": "turbo run build --filter=@propertypad/auth-ui-react",
     "build:example": "turbo run build:example",

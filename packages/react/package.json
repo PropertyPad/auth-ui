@@ -32,7 +32,6 @@
   },
   "dependencies": {
     "@stitches/core": "^1.2.8",
-    "@propertypad/auth-ui-shared": "workspace:*",
     "prop-types": "^15.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

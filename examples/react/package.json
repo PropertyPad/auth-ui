@@ -11,8 +11,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@propertypad/auth-ui-react": "workspace:*",
-    "@propertypad/auth-ui-shared": "workspace:*",
     "@supabase/supabase-js": "^2.21.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
