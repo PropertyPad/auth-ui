@@ -33,7 +33,6 @@
   "devDependencies": {
     "@stitches/core": "^1.2.8",
     "@supabase/supabase-js": "^2.21.0",
-    "tsconfig": "workspace:*",
     "tsup": "^6.6.3"
   },
   "peerDependencies": {
