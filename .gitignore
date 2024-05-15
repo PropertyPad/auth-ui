@@ -32,7 +32,7 @@ yarn-error.log*
 .env.production.local
 
 # Distribution directories
-dist/
+# dist/
 package/
 storybook-static/
 
