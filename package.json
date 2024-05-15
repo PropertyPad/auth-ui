@@ -1,10 +1,10 @@
 {
-  "name": "@supabase/auth-ui",
+  "name": "@propertypad/auth-ui",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "turbo run build --filter=@supabase/auth-ui-react",
-    "build:react": "turbo run build --filter=@supabase/auth-ui-react",
+    "build": "turbo run build --filter=@propertypad/auth-ui-react",
+    "build:react": "turbo run build --filter=@propertypad/auth-ui-react",
     "build:example": "turbo run build:example",
     "build:example:react": "turbo run build:example --filter=@example/react",
     "dev": "turbo run dev --parallel",
